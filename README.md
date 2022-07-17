@@ -10,9 +10,10 @@ Demo run on Git Pages: [MIT](https://choosealicense.com/licenses/mit/)
 ## Installation
 
 ```bash
-git clone https://github.com/edwinaquino/React-Bootstrap-Async-HTTP-Request-with-Await.git
+$ git clone https://github.com/edwinaquino/
+$ cd React-Bootstrap-Async-HTTP-Request-with-Await
+$ npm install
 
-cd React-Bootstrap-Async-HTTP-Request-with-Await
 ```
 npm install
 ## Usage
