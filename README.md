@@ -1,6 +1,11 @@
 # Example of React using Bootstrap, Async, HTTP Request with Await
 
 This is a simple React application using the restcountries.com free API to get information about countries via a RESTful API.
+## Demo
+Demo run on Git Pages: [MIT](https://choosealicense.com/licenses/mit/)
+
+## ScreenShot
+![react-countries-api](https://user-images.githubusercontent.com/30946443/179382802-9e5a9765-883a-4b06-9d08-d800c25a0724.jpg)
 
 ## Installation
 
